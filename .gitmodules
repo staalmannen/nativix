@@ -1,0 +1,9 @@
+[submodule "src/linux-abiemu"]
+	path = src/linux-abiemu
+	url = https://github.com/staalmannen/linux-abiemu
+[submodule "src/linux"]
+	path = src/linux
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "src/zfs"]
+	path = src/zfs
+	url = https://github.com/openzfs/zfs.git
